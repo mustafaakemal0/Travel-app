@@ -1,0 +1,384 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		75078A1D2A0A546400F43CDF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75078A1C2A0A546400F43CDF /* AppDelegate.swift */; };
+		75078A1F2A0A546400F43CDF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75078A1E2A0A546400F43CDF /* SceneDelegate.swift */; };
+		75078A212A0A546400F43CDF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75078A202A0A546400F43CDF /* ViewController.swift */; };
+		75078A242A0A546400F43CDF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75078A222A0A546400F43CDF /* Main.storyboard */; };
+		75078A272A0A546400F43CDF /* seyehat_kitab__map_kullanma_.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 75078A252A0A546400F43CDF /* seyehat_kitab__map_kullanma_.xcdatamodeld */; };
+		75078A292A0A546500F43CDF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75078A282A0A546500F43CDF /* Assets.xcassets */; };
+		75078A2C2A0A546500F43CDF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75078A2A2A0A546500F43CDF /* LaunchScreen.storyboard */; };
+		75AEA8812A0A7ECE00286AF4 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75AEA8802A0A7ECE00286AF4 /* ListViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		75078A192A0A546400F43CDF /* seyehat kitabı(map kullanma).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "seyehat kitabı(map kullanma).app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		75078A1C2A0A546400F43CDF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		75078A1E2A0A546400F43CDF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		75078A202A0A546400F43CDF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		75078A232A0A546400F43CDF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		75078A262A0A546400F43CDF /* seyehat_kitab__map_kullanma_.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = seyehat_kitab__map_kullanma_.xcdatamodel; sourceTree = "<group>"; };
+		75078A282A0A546500F43CDF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		75078A2B2A0A546500F43CDF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		75078A2D2A0A546500F43CDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		75AEA8802A0A7ECE00286AF4 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		75078A162A0A546400F43CDF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		75078A102A0A546400F43CDF = {
+			isa = PBXGroup;
+			children = (
+				75078A1B2A0A546400F43CDF /* seyehat kitabı(map kullanma) */,
+				75078A1A2A0A546400F43CDF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		75078A1A2A0A546400F43CDF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				75078A192A0A546400F43CDF /* seyehat kitabı(map kullanma).app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		75078A1B2A0A546400F43CDF /* seyehat kitabı(map kullanma) */ = {
+			isa = PBXGroup;
+			children = (
+				75078A1C2A0A546400F43CDF /* AppDelegate.swift */,
+				75078A1E2A0A546400F43CDF /* SceneDelegate.swift */,
+				75078A202A0A546400F43CDF /* ViewController.swift */,
+				75AEA8802A0A7ECE00286AF4 /* ListViewController.swift */,
+				75078A222A0A546400F43CDF /* Main.storyboard */,
+				75078A282A0A546500F43CDF /* Assets.xcassets */,
+				75078A2A2A0A546500F43CDF /* LaunchScreen.storyboard */,
+				75078A2D2A0A546500F43CDF /* Info.plist */,
+				75078A252A0A546400F43CDF /* seyehat_kitab__map_kullanma_.xcdatamodeld */,
+			);
+			path = "seyehat kitabı(map kullanma)";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		75078A182A0A546400F43CDF /* seyehat kitabı(map kullanma) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 75078A302A0A546500F43CDF /* Build configuration list for PBXNativeTarget "seyehat kitabı(map kullanma)" */;
+			buildPhases = (
+				75078A152A0A546400F43CDF /* Sources */,
+				75078A162A0A546400F43CDF /* Frameworks */,
+				75078A172A0A546400F43CDF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "seyehat kitabı(map kullanma)";
+			productName = "seyehat kitabı(map kullanma)";
+			productReference = 75078A192A0A546400F43CDF /* seyehat kitabı(map kullanma).app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		75078A112A0A546400F43CDF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					75078A182A0A546400F43CDF = {
+						CreatedOnToolsVersion = 14.3;
+					};
+				};
+			};
+			buildConfigurationList = 75078A142A0A546400F43CDF /* Build configuration list for PBXProject "seyehat kitabı(map kullanma)" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 75078A102A0A546400F43CDF;
+			productRefGroup = 75078A1A2A0A546400F43CDF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				75078A182A0A546400F43CDF /* seyehat kitabı(map kullanma) */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		75078A172A0A546400F43CDF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				75078A2C2A0A546500F43CDF /* LaunchScreen.storyboard in Resources */,
+				75078A292A0A546500F43CDF /* Assets.xcassets in Resources */,
+				75078A242A0A546400F43CDF /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		75078A152A0A546400F43CDF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				75078A212A0A546400F43CDF /* ViewController.swift in Sources */,
+				75078A272A0A546400F43CDF /* seyehat_kitab__map_kullanma_.xcdatamodeld in Sources */,
+				75078A1D2A0A546400F43CDF /* AppDelegate.swift in Sources */,
+				75AEA8812A0A7ECE00286AF4 /* ListViewController.swift in Sources */,
+				75078A1F2A0A546400F43CDF /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		75078A222A0A546400F43CDF /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				75078A232A0A546400F43CDF /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		75078A2A2A0A546500F43CDF /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				75078A2B2A0A546500F43CDF /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		75078A2E2A0A546500F43CDF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		75078A2F2A0A546500F43CDF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		75078A312A0A546500F43CDF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ACLLDYGQNV;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "seyehat kitabı(map kullanma)/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.MustafaKemalO-zen.seyehat-kitab--map-kullanma-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		75078A322A0A546500F43CDF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ACLLDYGQNV;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "seyehat kitabı(map kullanma)/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.MustafaKemalO-zen.seyehat-kitab--map-kullanma-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		75078A142A0A546400F43CDF /* Build configuration list for PBXProject "seyehat kitabı(map kullanma)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				75078A2E2A0A546500F43CDF /* Debug */,
+				75078A2F2A0A546500F43CDF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		75078A302A0A546500F43CDF /* Build configuration list for PBXNativeTarget "seyehat kitabı(map kullanma)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				75078A312A0A546500F43CDF /* Debug */,
+				75078A322A0A546500F43CDF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		75078A252A0A546400F43CDF /* seyehat_kitab__map_kullanma_.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				75078A262A0A546400F43CDF /* seyehat_kitab__map_kullanma_.xcdatamodel */,
+			);
+			currentVersion = 75078A262A0A546400F43CDF /* seyehat_kitab__map_kullanma_.xcdatamodel */;
+			path = seyehat_kitab__map_kullanma_.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 75078A112A0A546400F43CDF /* Project object */;
+}

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5032118F-AB42-4D4D-AA38-29D65958153B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D79685B1-529F-462A-9E7A-E26D03F6F62B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seyehat kitab&#x131;(map kullanma)/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D79685B1-529F-462A-9E7A-E26D03F6F62B - ccae147c79dc4c95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seyehat_kitab&#x131;_map_kullanma_.ViewController.commentText.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "seyehat kitab&#x131;(map kullanma)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mustafakemalozen/Desktop/I%CC%87OS/seyehat%20kitab%C4%B1(map%20kullanma)/seyehat%20kitab%C4%B1(map%20kullanma)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "D79685B1-529F-462A-9E7A-E26D03F6F62B - 9077c6f74f41a4fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seyehat_kitab&#x131;_map_kullanma_.ViewController.commentText.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "seyehat kitab&#x131;(map kullanma)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mustafakemalozen/Desktop/I%CC%87OS/seyehat%20kitab%C4%B1(map%20kullanma)/seyehat%20kitab%C4%B1(map%20kullanma)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "D79685B1-529F-462A-9E7A-E26D03F6F62B - daa6e076ba5169b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seyehat_kitab&#x131;_map_kullanma_.ViewController.commentText.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "seyehat kitab&#x131;(map kullanma)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mustafakemalozen/Desktop/I%CC%87OS/seyehat%20kitab%C4%B1(map%20kullanma)/seyehat%20kitab%C4%B1(map%20kullanma)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D79685B1-529F-462A-9E7A-E26D03F6F62B - a600f16ee2cfc618"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seyehat_kitab&#x131;_map_kullanma_.ViewController.commentText.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "seyehat kitab&#x131;(map kullanma)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mustafakemalozen/Desktop/I%CC%87OS/seyehat%20kitab%C4%B1(map%20kullanma)/seyehat%20kitab%C4%B1(map%20kullanma)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "D79685B1-529F-462A-9E7A-E26D03F6F62B - 88e3ccf8e793fd1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seyehat_kitab&#x131;_map_kullanma_.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; seyehat_kitab&#x131;_map_kullanma_.ViewController"
+                  moduleName = "seyehat kitab&#x131;(map kullanma)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mustafakemalozen/Desktop/I%CC%87OS/seyehat%20kitab%C4%B1(map%20kullanma)/seyehat%20kitab%C4%B1(map%20kullanma)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "D79685B1-529F-462A-9E7A-E26D03F6F62B - fb14864c2ee60820"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seyehat_kitab&#x131;_map_kullanma_.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;seyehat_kitab&#x131;_map_kullanma_.ViewController&gt;"
+                  moduleName = "seyehat kitab&#x131;(map kullanma)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mustafakemalozen/Desktop/I%CC%87OS/seyehat%20kitab%C4%B1(map%20kullanma)/seyehat%20kitab%C4%B1(map%20kullanma)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA420A9C-EA3F-4EDB-82CF-8484422BF987"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seyehat kitab&#x131;(map kullanma)/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FA420A9C-EA3F-4EDB-82CF-8484422BF987 - ccae147c79dc4c95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seyehat_kitab&#x131;_map_kullanma_.ViewController.commentText.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "seyehat kitab&#x131;(map kullanma)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mustafakemalozen/Desktop/I%CC%87OS/seyehat%20kitab%C4%B1(map%20kullanma)/seyehat%20kitab%C4%B1(map%20kullanma)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "FA420A9C-EA3F-4EDB-82CF-8484422BF987 - 9077c6f74f41a4fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seyehat_kitab&#x131;_map_kullanma_.ViewController.commentText.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "seyehat kitab&#x131;(map kullanma)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mustafakemalozen/Desktop/I%CC%87OS/seyehat%20kitab%C4%B1(map%20kullanma)/seyehat%20kitab%C4%B1(map%20kullanma)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "FA420A9C-EA3F-4EDB-82CF-8484422BF987 - daa6e076ba5169b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seyehat_kitab&#x131;_map_kullanma_.ViewController.commentText.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "seyehat kitab&#x131;(map kullanma)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mustafakemalozen/Desktop/I%CC%87OS/seyehat%20kitab%C4%B1(map%20kullanma)/seyehat%20kitab%C4%B1(map%20kullanma)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "FA420A9C-EA3F-4EDB-82CF-8484422BF987 - a600f16ee2cfc618"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seyehat_kitab&#x131;_map_kullanma_.ViewController.commentText.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "seyehat kitab&#x131;(map kullanma)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mustafakemalozen/Desktop/I%CC%87OS/seyehat%20kitab%C4%B1(map%20kullanma)/seyehat%20kitab%C4%B1(map%20kullanma)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "FA420A9C-EA3F-4EDB-82CF-8484422BF987 - 88e3ccf8e793fd1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seyehat_kitab&#x131;_map_kullanma_.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; seyehat_kitab&#x131;_map_kullanma_.ViewController"
+                  moduleName = "seyehat kitab&#x131;(map kullanma)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mustafakemalozen/Desktop/I%CC%87OS/seyehat%20kitab%C4%B1(map%20kullanma)/seyehat%20kitab%C4%B1(map%20kullanma)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "FA420A9C-EA3F-4EDB-82CF-8484422BF987 - fb14864c2ee60820"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seyehat_kitab&#x131;_map_kullanma_.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;seyehat_kitab&#x131;_map_kullanma_.ViewController&gt;"
+                  moduleName = "seyehat kitab&#x131;(map kullanma)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mustafakemalozen/Desktop/I%CC%87OS/seyehat%20kitab%C4%B1(map%20kullanma)/seyehat%20kitab%C4%B1(map%20kullanma)/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
